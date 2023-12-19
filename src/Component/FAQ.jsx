@@ -13,7 +13,7 @@ function FAQ() {
       <h1>FAQ (คำถามที่พบบ่อย)</h1>
       <ul>
         <Accordion defaultIndex={[0]} allowMultiple>
-          <AccordionItem space>
+          <AccordionItem>
             <h2>
               <AccordionButton>
                 <Box as="span" flex="1" textAlign="left">
